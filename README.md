@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/sancn/">
+  <a href="https://www.linkedin.com/in/sawntosh/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100078008742028">
@@ -19,9 +19,9 @@
 
 ### :man_technologist: About Me :
 
-I am a IT Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
+I am an IT Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
 
-- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to the backend for building web applications.
 
 - :zap: In my free time, I solve problems and learn more about new technology stacks.
 
