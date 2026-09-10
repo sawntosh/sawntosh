@@ -8,16 +8,17 @@
 
 <br/>
 
+<a href="https://github.com/sawntosh">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
 <a href="https://www.linkedin.com/in/sawntosh/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/aashish97">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=aashish97&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=sawntosh&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 
 </div>
 
@@ -34,7 +35,7 @@ I'm an **IT Engineer from Nepal 🇳🇵**, passionate about building reliable, 
 - 🌱 Continuously learning new technologies, frameworks, and development practices.
 - ⚡ I enjoy solving problems and turning ideas into practical solutions.
 - 💡 Always curious about better ways to design, build, and ship software.
-- 📫 Let's connect on **LinkedIn**!
+- 📫 Let's connect and build something awesome!
 
 <br clear="right"/>
 
@@ -45,19 +46,19 @@ I'm an **IT Engineer from Nepal 🇳🇵**, passionate about building reliable, 
 ### 💻 Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,html,css" alt="Languages and frameworks"/>
+  <img src="https://skillicons.dev/icons?i=python,django,html,css" alt="Python, Django, HTML, CSS"/>
 </p>
 
-### 🗄️ Databases & Infrastructure
+### 🗄️ Database & Systems
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,linux" alt="Databases and infrastructure"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,linux" alt="PostgreSQL, Linux"/>
 </p>
 
 ### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github" alt="Development tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub"/>
 </p>
 
 ---
@@ -66,25 +67,29 @@ I'm an **IT Engineer from Nepal 🇳🇵**, passionate about building reliable, 
 
 <div align="center">
 
-<a href="https://github.com/swantosh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aashish97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish97&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<a href="https://github.com/sawntosh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sawntosh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sawntosh's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawntosh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aashish97&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sawntosh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <div align="center">
 
+<a href="https://github.com/sawntosh">
+  <img src="https://img.shields.io/badge/GitHub-sawntosh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
 <a href="https://www.linkedin.com/in/sawntosh/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-sawntosh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
